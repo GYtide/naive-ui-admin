@@ -1,0 +1,484 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Donald394",
+      "gender": "female",
+      "age": 68,
+      "email": "donald394@example.com",
+      "phone": "+1-656-206-7323"
+    },
+    {
+      "id": "2",
+      "name": "Andrew439",
+      "gender": "male",
+      "age": 80,
+      "email": "andrew439@example.com",
+      "phone": "+1-766-769-2479"
+    },
+    {
+      "id": "3",
+      "name": "Barbara494",
+      "gender": "female",
+      "age": 44,
+      "email": "barbara494@example.com",
+      "phone": "+1-786-785-9297"
+    },
+    {
+      "id": "4",
+      "name": "Linda407",
+      "gender": "male",
+      "age": 50,
+      "email": "linda407@example.com",
+      "phone": "+1-382-734-3295"
+    },
+    {
+      "id": "5",
+      "name": "Daniel398",
+      "gender": "female",
+      "age": 38,
+      "email": "daniel398@example.com",
+      "phone": "+1-896-296-9767"
+    },
+    {
+      "id": "6",
+      "name": "James684",
+      "gender": "male",
+      "age": 36,
+      "email": "james684@example.com",
+      "phone": "+1-292-709-1647"
+    },
+    {
+      "id": "7",
+      "name": "John284",
+      "gender": "female",
+      "age": 53,
+      "email": "john284@example.com",
+      "phone": "+1-646-515-9678"
+    },
+    {
+      "id": "8",
+      "name": "Daniel121",
+      "gender": "male",
+      "age": 43,
+      "email": "daniel121@example.com",
+      "phone": "+1-836-247-8495"
+    },
+    {
+      "id": "9",
+      "name": "Barbara203",
+      "gender": "female",
+      "age": 27,
+      "email": "barbara203@example.com",
+      "phone": "+1-882-640-5423"
+    },
+    {
+      "id": "10",
+      "name": "Barbara278",
+      "gender": "male",
+      "age": 9,
+      "email": "barbara278@example.com",
+      "phone": "+1-530-935-8444"
+    },
+    {
+      "id": "11",
+      "name": "Betty957",
+      "gender": "female",
+      "age": 19,
+      "email": "betty957@example.com",
+      "phone": "+1-226-280-9456"
+    },
+    {
+      "id": "12",
+      "name": "Michael512",
+      "gender": "male",
+      "age": 14,
+      "email": "michael512@example.com",
+      "phone": "+1-722-370-4948"
+    },
+    {
+      "id": "13",
+      "name": "Michael614",
+      "gender": "female",
+      "age": 15,
+      "email": "michael614@example.com",
+      "phone": "+1-649-347-3343"
+    },
+    {
+      "id": "14",
+      "name": "Kimberly109",
+      "gender": "male",
+      "age": 6,
+      "email": "kimberly109@example.com",
+      "phone": "+1-409-247-6516"
+    },
+    {
+      "id": "15",
+      "name": "Richard657",
+      "gender": "female",
+      "age": 5,
+      "email": "richard657@example.com",
+      "phone": "+1-423-184-7081"
+    },
+    {
+      "id": "16",
+      "name": "Ashley133",
+      "gender": "male",
+      "age": 29,
+      "email": "ashley133@example.com",
+      "phone": "+1-670-670-9999"
+    },
+    {
+      "id": "17",
+      "name": "Linda151",
+      "gender": "female",
+      "age": 20,
+      "email": "linda151@example.com",
+      "phone": "+1-571-988-2431"
+    },
+    {
+      "id": "18",
+      "name": "Elizabeth826",
+      "gender": "male",
+      "age": 25,
+      "email": "elizabeth826@example.com",
+      "phone": "+1-683-180-5009"
+    },
+    {
+      "id": "19",
+      "name": "Michael790",
+      "gender": "female",
+      "age": 6,
+      "email": "michael790@example.com",
+      "phone": "+1-313-427-4965"
+    },
+    {
+      "id": "20",
+      "name": "Emily377",
+      "gender": "male",
+      "age": 21,
+      "email": "emily377@example.com",
+      "phone": "+1-619-177-1989"
+    },
+    {
+      "id": "21",
+      "name": "David989",
+      "gender": "female",
+      "age": 16,
+      "email": "david989@example.com",
+      "phone": "+1-699-131-4525"
+    },
+    {
+      "id": "22",
+      "name": "Richard627",
+      "gender": "male",
+      "age": 18,
+      "email": "richard627@example.com",
+      "phone": "+1-876-869-6221"
+    },
+    {
+      "id": "23",
+      "name": "Linda149",
+      "gender": "female",
+      "age": 18,
+      "email": "linda149@example.com",
+      "phone": "+1-593-231-8056"
+    },
+    {
+      "id": "24",
+      "name": "Joshua875",
+      "gender": "male",
+      "age": 8,
+      "email": "joshua875@example.com",
+      "phone": "+1-584-884-3581"
+    },
+    {
+      "id": "25",
+      "name": "Donald227",
+      "gender": "female",
+      "age": 15,
+      "email": "donald227@example.com",
+      "phone": "+1-392-900-5736"
+    },
+    {
+      "id": "26",
+      "name": "James609",
+      "gender": "male",
+      "age": 22,
+      "email": "james609@example.com",
+      "phone": "+1-709-674-2228"
+    },
+    {
+      "id": "27",
+      "name": "Sandra487",
+      "gender": "female",
+      "age": 12,
+      "email": "sandra487@example.com",
+      "phone": "+1-405-474-7767"
+    },
+    {
+      "id": "28",
+      "name": "Lisa483",
+      "gender": "male",
+      "age": 30,
+      "email": "lisa483@example.com",
+      "phone": "+1-456-979-6189"
+    },
+    {
+      "id": "29",
+      "name": "John123",
+      "gender": "female",
+      "age": 9,
+      "email": "john123@example.com",
+      "phone": "+1-650-243-6000"
+    },
+    {
+      "id": "30",
+      "name": "William222",
+      "gender": "male",
+      "age": 8,
+      "email": "william222@example.com",
+      "phone": "+1-474-146-6922"
+    },
+    {
+      "id": "31",
+      "name": "Matthew555",
+      "gender": "female",
+      "age": 14,
+      "email": "matthew555@example.com",
+      "phone": "+1-507-202-3472"
+    },
+    {
+      "id": "32",
+      "name": "Michelle226",
+      "gender": "male",
+      "age": 5,
+      "email": "michelle226@example.com",
+      "phone": "+1-477-568-8666"
+    },
+    {
+      "id": "33",
+      "name": "Joseph749",
+      "gender": "female",
+      "age": 23,
+      "email": "joseph749@example.com",
+      "phone": "+1-973-319-8873"
+    },
+    {
+      "id": "34",
+      "name": "Linda909",
+      "gender": "male",
+      "age": 24,
+      "email": "linda909@example.com",
+      "phone": "+1-628-608-4460"
+    },
+    {
+      "id": "35",
+      "name": "Joshua832",
+      "gender": "female",
+      "age": 29,
+      "email": "joshua832@example.com",
+      "phone": "+1-462-955-5876"
+    },
+    {
+      "id": "36",
+      "name": "Lisa343",
+      "gender": "male",
+      "age": 26,
+      "email": "lisa343@example.com",
+      "phone": "+1-440-410-4264"
+    }
+  ],
+  "links": [
+    {
+      "source": "1",
+      "target": "3",
+      "relation": "mother-daughter"
+    },
+    {
+      "source": "1",
+      "target": "4",
+      "relation": "mother-son"
+    },
+    {
+      "source": "1",
+      "target": "5",
+      "relation": "mother-daughter"
+    },
+    {
+      "source": "1",
+      "target": "6",
+      "relation": "mother-son"
+    },
+    {
+      "source": "1",
+      "target": "7",
+      "relation": "mother-daughter"
+    },
+    {
+      "source": "2",
+      "target": "8",
+      "relation": "father-son"
+    },
+    {
+      "source": "3",
+      "target": "36",
+      "relation": "mother-son"
+    },
+    {
+      "source": "3",
+      "target": "35",
+      "relation": "mother-daughter"
+    },
+    {
+      "source": "4",
+      "target": "34",
+      "relation": "father-son"
+    },
+    {
+      "source": "4",
+      "target": "33",
+      "relation": "father-daughter"
+    },
+    {
+      "source": "4",
+      "target": "32",
+      "relation": "father-son"
+    },
+    {
+      "source": "4",
+      "target": "31",
+      "relation": "father-daughter"
+    },
+    {
+      "source": "4",
+      "target": "30",
+      "relation": "father-son"
+    },
+    {
+      "source": "4",
+      "target": "29",
+      "relation": "father-daughter"
+    },
+    {
+      "source": "5",
+      "target": "28",
+      "relation": "mother-son"
+    },
+    {
+      "source": "5",
+      "target": "27",
+      "relation": "mother-daughter"
+    },
+    {
+      "source": "5",
+      "target": "26",
+      "relation": "mother-son"
+    },
+    {
+      "source": "5",
+      "target": "25",
+      "relation": "mother-daughter"
+    },
+    {
+      "source": "6",
+      "target": "24",
+      "relation": "father-son"
+    },
+    {
+      "source": "6",
+      "target": "23",
+      "relation": "father-daughter"
+    },
+    {
+      "source": "6",
+      "target": "22",
+      "relation": "father-son"
+    },
+    {
+      "source": "7",
+      "target": "21",
+      "relation": "mother-daughter"
+    },
+    {
+      "source": "7",
+      "target": "20",
+      "relation": "mother-son"
+    },
+    {
+      "source": "7",
+      "target": "19",
+      "relation": "mother-daughter"
+    },
+    {
+      "source": "7",
+      "target": "18",
+      "relation": "mother-son"
+    },
+    {
+      "source": "8",
+      "target": "17",
+      "relation": "father-daughter"
+    },
+    {
+      "source": "8",
+      "target": "16",
+      "relation": "father-son"
+    },
+    {
+      "source": "8",
+      "target": "15",
+      "relation": "father-daughter"
+    },
+    {
+      "source": "8",
+      "target": "14",
+      "relation": "father-son"
+    },
+    {
+      "source": "8",
+      "target": "13",
+      "relation": "father-daughter"
+    },
+    {
+      "source": "3",
+      "target": "4",
+      "relation": "colleague"
+    },
+    {
+      "source": "6",
+      "target": "5",
+      "relation": "colleague"
+    },
+    {
+      "source": "8",
+      "target": "7",
+      "relation": "colleague"
+    },
+    {
+      "source": "30",
+      "target": "35",
+      "relation": "friend"
+    },
+    {
+      "source": "16",
+      "target": "22",
+      "relation": "friend"
+    },
+    {
+      "source": "33",
+      "target": "31",
+      "relation": "friend"
+    },
+    {
+      "source": "18",
+      "target": "36",
+      "relation": "friend"
+    },
+    {
+      "source": "34",
+      "target": "17",
+      "relation": "friend"
+    }
+  ]
+}

@@ -47,6 +47,7 @@ export function useDataSource(
     try {
       setLoading(true);
       const { request, pagination, beforeRequest, afterRequest }: any = unref(propsRef);
+      console.log("request",request)
       if (!request) return;
       //组装分页信息
       const pageField = APISETTING.pageField;
@@ -73,6 +74,7 @@ export function useDataSource(
         params = (await beforeRequest(params)) || params;
       }
       const res = await request(params);
+      console.log("res",res)
       const resultTotal = res[totalField];
       const currentPage = res[pageField];
       const total = res[itemCount];
