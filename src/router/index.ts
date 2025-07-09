@@ -38,7 +38,18 @@ export const LoginRoute: RouteRecordRaw = {
 };
 
 //需要验证权限
-export const asyncRoutes = [...routeModuleList];
+// export const asyncRoutes = [...routeModuleList];
+export const asyncRoutes = routeModuleList.map((route) =>
+{
+
+ if( route.path== '/relist' || route.path == '/rediagram'|| route.path == '/dashboard'|| route.path =='/list')
+ {
+   console.log(route.path);
+
+   return route
+ }
+}
+)
 
 //普通路由 无需验证权限
 export const constantRouter: RouteRecordRaw[] = [LoginRoute, RootRoute, RedirectRoute];

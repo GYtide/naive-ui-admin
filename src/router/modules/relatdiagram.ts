@@ -12,17 +12,17 @@ const routes: Array<RouteRecordRaw> = [
     meta: {
       title: '关系图',
       icon: renderIcon(CheckCircleOutlined),
-      sort: 4,
+      sort: 3,
     },
     children: [
-      {
-        path: 'graph',
-        name: 'rediagram-graph',
-        meta: {
-          title: '关系图',
-        },
-        component: () => import('@/views/relist/RelationDiagram.vue'),
-      },
+      // {
+      //   path: 'graph',
+      //   name: 'rediagram-graph',
+      //   meta: {
+      //     title: '关系图',
+      //   },
+      //   component: () => import('@/views/relist/RelationDiagram.vue'),
+      // },
       {
         path: 'tree',
         name: 'rediagram-tree',
